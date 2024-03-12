@@ -9,4 +9,4 @@ Here is the URL to the webpage for this project: https://odessso.github.io/works
 - Focused on experimenting with moving rectangular shapes and calling them back to the original starting position.
 
 ## Problems Faced:
-- Code is not as concise as I would life it to be. Would be good to go back and use more concise forms of repeating code as seen in the Workshop 2 tutorial.
+- Code is not as concise as I would like it to be. Would be good to go back and use more concise forms of repeating code as seen in the Workshop 2 tutorial.
