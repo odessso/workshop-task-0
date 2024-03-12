@@ -2,7 +2,7 @@ let x = 0;
 let move = 3;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(innerWidth, outerWidth);
   background(220);
 }
 
